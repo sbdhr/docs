@@ -1,1 +1,1 @@
-[Diocese of San Bernardino]
+Diocese of San Bernardino
