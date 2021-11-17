@@ -4,4 +4,6 @@ Diocese of San Bernardino
 
 Testing
 
-<A HREF="pages/aboutEmployee Changes.html">About this site</A>
+<A HREF="pages/aboutEmployeeChanges.html">About this site</A>
+
+* [Guide](EmployeeChanges.md)
