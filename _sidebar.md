@@ -1,6 +1,6 @@
 - Getting started
 
-  - [Quick start](quickstart.md)
+  - [Quick start](EmployeeChanges.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
