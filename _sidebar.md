@@ -6,7 +6,7 @@
   - [Cover page](cover.md)
 
 - Benefits
-  - [ACA Hours](ACA Hours.md)
+  - [ACA Hours](ACA-Hours.md)
   - [Themes](themes.md)
   - [List of Plugins](plugins.md)
   - [Write a Plugin](write-a-plugin.md)
